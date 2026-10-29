@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img.volvo.0103.jpg
+Ruta del archivo: C:\IA_Gpo_3H_M\VA_0103\u2-p3-va-0103\img-original-0103\img.volvo.0103.jpg
+Formato por extension: .JPG
+Tamano en bytes: 43724
+Tamano en KB: 42.70
+Tamano en MB: 0.0417
+
+DIMENSIONES
+-----------
+Ancho: 620 pixeles
+Alto: 413 pixeles
+Resolucion: 620 x 413
+Total de pixeles: 256,060
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 60.69
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 60.23
+Verde (G): 56.25
+Rojo (R): 65.59
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
